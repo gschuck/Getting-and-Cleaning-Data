@@ -5,6 +5,7 @@ The goal is create a tidy data set of wearable computing data originally from ht
 * README.md -- 
 * CodeBook.md -- codebook describing variables, the data and transformations
 * run_analysis.R -- R code as described below
+* tidydata.txt -- the output of run_analysis.R
 
 ## run_analysis.R
 
